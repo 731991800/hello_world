@@ -3,4 +3,4 @@
 
 
 new branch
-command git 
+conflict fixed now ,i can commit yet.
